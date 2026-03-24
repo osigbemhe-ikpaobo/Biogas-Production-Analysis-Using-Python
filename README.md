@@ -35,7 +35,6 @@ It simulates real laboratory or small-scale biogas plant behavior and is ideal f
 ![Substrate vs Biogas](data/substrate_vs_biogas.png)
 
 ### 📁 Project Structure
-```bash
 Biogas-Production-Analysis-Using-Python/
 ├── data/
 │   ├── biogas_data.csv
