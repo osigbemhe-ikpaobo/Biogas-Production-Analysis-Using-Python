@@ -3,7 +3,7 @@
 **Final Year Project**  
 Exploratory Data Analysis of 60-day biogas production from an anaerobic digester using **Pandas** and **Matplotlib**.
 
-![Daily Biogas Production Over 60 Days](gas_vs_days.png)
+![Daily Biogas Production Over 60 Days](data/gas_vs_days.png)
 
 ## 📊 Project Overview
 This project demonstrates data cleaning, visualization, and insight generation on real-looking laboratory biogas data.  
