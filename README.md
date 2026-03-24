@@ -15,10 +15,10 @@ No machine learning — only core Python skills (exactly as required for the fin
 |------|------|-------------|-------------|
 | **Notebook** | `.ipynb` | Complete Jupyter notebook with code, cleaning, visualizations & insights | [Biogas Production Analysis Using Python.ipynb](Biogas%20Production%20Analysis%20Using%20Python.ipynb) |
 | **Dataset** | `.csv` | Clean 60-day biogas production dataset | [biogas_data.csv](data/biogas_data.csv) |
-| **Gas vs Days** | `.png` | Line chart – Daily biogas production trend | [gas_vs_days.png](gas_vs_days.png) |
-| **Temperature vs Biogas** | `.png` | Scatter plot – Effect of temperature | [temp_vs_biogas.png](temp_vs_biogas.png) |
-| **pH vs Biogas** | `.png` | Scatter plot – Effect of pH level | [ph_vs_biogas.png](ph_vs_biogas.png) |
-| **Substrate vs Biogas** | `.png` | Scatter plot – Effect of substrate input (strongest correlation) | [substrate_vs_biogas.png](substrate_vs_biogas.png) |
+| **Gas vs Days** | `.png` | Line chart – Daily biogas production trend | [gas_vs_days.png](data/gas_vs_days.png) |
+| **Temperature vs Biogas** | `.png` | Scatter plot – Effect of temperature | [temp_vs_biogas.png](data/temp_vs_biogas.png) |
+| **pH vs Biogas** | `.png` | Scatter plot – Effect of pH level | [ph_vs_biogas.png](data/ph_vs_biogas.png) |
+| **Substrate vs Biogas** | `.png` | Scatter plot – Effect of substrate input (strongest correlation) | [substrate_vs_biogas.png](data/substrate_vs_biogas.png) |
 
 ## 🔍 Key Insights
 - **Total biogas produced**: **201.49 m³** in 60 days  
