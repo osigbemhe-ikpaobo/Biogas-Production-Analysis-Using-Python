@@ -35,6 +35,7 @@ It simulates real laboratory or small-scale biogas plant behavior and is ideal f
 ![Substrate vs Biogas](data/substrate_vs_biogas.png)
 
 ### 📁 Project Structure
+```
 Biogas-Production-Analysis-Using-Python/
 ├── data/
 │   ├── biogas_data.csv
@@ -44,7 +45,7 @@ Biogas-Production-Analysis-Using-Python/
 │   └── substrate_vs_biogas.png
 ├── Biogas Production Analysis Using Python.ipynb
 └── README.md
-
+```
 
 ### 🔍 Key Insights
 - **Total biogas produced**: 201.49 m³ over 60 days  
