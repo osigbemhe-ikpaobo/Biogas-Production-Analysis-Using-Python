@@ -62,7 +62,7 @@ Substrate input shows the strongest positive correlation with biogas yield. Opti
 - Matplotlib (visualization)
 
 ### ▶️ How to Run
-1. Open [`Biogas Production Analysis Using Python.ipynb`](Biogas%20Production%20Analysis%20Using%20Python.ipynb) in **Google Colab** (recommended) or Jupyter Notebook  
+1. Open [`Biogas Production Analysis Using Python.ipynb`](Biogas_Production_Analysis_Using_Python.ipynb) in **Google Colab** (recommended) or Jupyter Notebook  
 2. Run all cells  
 3. All graphs will be generated automatically
 
